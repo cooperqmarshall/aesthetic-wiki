@@ -24,7 +24,7 @@ let option = {
           show: true,
           position: 'inside',
           fontSize: 16,
-          color: '#fff'
+          color: '#000'
         },
         lineStyle: {
           opacity: 0.5,
